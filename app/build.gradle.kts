@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.gesturesandsensors"
+    namespace = "com.test.gesturesandsensors"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.gesturesandsensors"
+        applicationId = "com.test.gesturesandsensors"
         minSdk = 34
         targetSdk = 34
         versionCode = 1
